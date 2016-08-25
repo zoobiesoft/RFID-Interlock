@@ -8,6 +8,9 @@ A tool interlock using RFID 13.56Mhz cards for authentication
 * 2 Gang Outlet cover
   http://amzn.to/2bzQFwg
 
+* Duplex Decorator Receptacle 15-Amp/125-volt
+  http://amzn.to/2bRFH2U
+
 * Adafruit Feather HUZZAH with ESP8266 WiFi
   http://amzn.to/2bJx1gI
 
