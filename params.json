@@ -1,0 +1,6 @@
+{
+  "name": "Rfid-interlock",
+  "tagline": "A tool interlock using RFID 13.56Mhz cards for authentication",
+  "body": "# RFID-Interlock\r\nA tool interlock using RFID 13.56Mhz cards for authentication\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
