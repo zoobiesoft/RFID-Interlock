@@ -1,6 +1,6 @@
 {
   "name": "Rfid-interlock",
   "tagline": "A tool interlock using RFID 13.56Mhz cards for authentication",
-  "body": "# RFID-Interlock\r\nA tool interlock using RFID 13.56Mhz cards for authentication\r\n",
+  "body": "# RFID-Interlock\r\nA tool interlock using RFID 13.56Mhz cards for authentication\r\n\r\n##BOM\r\n* 2 Gang Outlet box\r\n  http://amzn.to/2bE0NFS\r\n\r\n* 2 Gang Outlet cover\r\n  http://amzn.to/2bzQFwg\r\n\r\n* Adafruit Feather HUZZAH with ESP8266 WiFi\r\n  http://amzn.to/2bJx1gI\r\n\r\n* NeoPixel FeatherWing - 4x8 RGB LED\r\n  http://amzn.to/2bITKe7\r\n\r\n* FeatherWing Proto\r\n  http://amzn.to/2bRysbg\r\n\r\n* Feather Stacking Headers\r\n  http://amzn.to/2bE0hrF\r\n\r\n* 5v 30A 1 Chanel Relay Module\r\n  http://amzn.to/2biYhQq\r\n\r\n* 3D Printed Parts\r\n  https://github.com/zoobiesoft/RFID-Interlock/tree/master/3D%20Printed%20Parts\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
