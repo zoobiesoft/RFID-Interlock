@@ -23,5 +23,11 @@ A tool interlock using RFID 13.56Mhz cards for authentication
 * 5v 30A 1 Chanel Relay Module
   http://amzn.to/2biYhQq
 
+* 3.56MHZ MFRC-522 RC522 RFID Module
+  http://amzn.to/2bRBAnC
+
+* Premium Female/Female Jumper Wires - 40 x 6"
+  http://amzn.to/2br6SlS
+
 * 3D Printed Parts
   https://github.com/zoobiesoft/RFID-Interlock/tree/master/3D%20Printed%20Parts
