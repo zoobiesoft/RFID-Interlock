@@ -41,5 +41,8 @@ A tool interlock using RFID 13.56Mhz cards for authentication
 * HLK-PM01 AC-DC 220V to 5V Step-Down Power Supply Module
   http://amzn.to/2dbca5h
 
+* Terminal Block - 2-pin 3.5mm
+  http://amzn.to/2dbcPnd
+
 * 3D Printed Parts
   https://github.com/zoobiesoft/RFID-Interlock/tree/master/3D%20Printed%20Parts
