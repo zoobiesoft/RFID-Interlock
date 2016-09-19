@@ -29,14 +29,17 @@ A tool interlock using RFID 13.56Mhz cards for authentication
 * Feather Stacking Headers
   http://amzn.to/2bE0hrF
 
-* 5v 30A 1 Chanel Relay Module
-  http://amzn.to/2biYhQq
+* 5v 10A 1 Chanel Relay Module
+  http://amzn.to/2cCund0
 
 * 3.56MHZ MFRC-522 RC522 RFID Module
   http://amzn.to/2bRBAnC
 
 * Premium Female/Female Jumper Wires - 40 x 6"
   http://amzn.to/2br6SlS
+
+* HLK-PM01 AC-DC 220V to 5V Step-Down Power Supply Module
+  http://amzn.to/2dbca5h
 
 * 3D Printed Parts
   https://github.com/zoobiesoft/RFID-Interlock/tree/master/3D%20Printed%20Parts
